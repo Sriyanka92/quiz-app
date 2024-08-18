@@ -1,0 +1,14 @@
+*{
+  margin: 0;
+}
+body{
+  height: auto;
+  /* background-image: linear-gradient(#D8C7FF,#19006C); */
+  background: repeating-linear-gradient(
+    45deg,
+    #606dbc,
+    #606dbc 10px,
+    #465298 10px,
+    #465298 20px
+  );
+}
